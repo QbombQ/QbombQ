@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi, I'm Elias Fernandes Barros</h1>
+<h1 align="center">👋 Hi, I'm a Full Stack Developer </h1>
 
 <p align="center">
-  🚀 Full Stack Developer | PHP (Laravel & Symfony) | Mobile App (React Native & Flutter)  
+  🚀 Full Stack Developer | PHP (Laravel & Symfony) | Web (React, Vue, Next, Angular) & Mobile App (React Native & Flutter)  
 </p>
 
 ### 🧑‍💻 About Me
@@ -29,9 +29,5 @@ I'm a passionate Full Stack Developer with over 10 years of experience building 
 - Git, GitHub Actions
 - Docker, Nginx, Vagrant, Herd
 - Postman, Insomnia, Figma
-
-- 🌐 [Portfolio Website](https://your-portfolio.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 Email: elias@example.com
 
 *Let's build something amazing together!*
