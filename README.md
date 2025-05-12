@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm a Full Stack Developer </h1>
 
 <p align="center">
-  🚀 Full Stack Developer | PHP (Laravel & Symfony) | Web (React, Vue, Next, Angular) & Mobile App (React Native & Flutter)  
+  🚀 Full Stack Developer | PHP (Laravel & Symfony) | Web (React, Vue, Next, Angular/Ionic) & Mobile App (React Native & Flutter)  
 </p>
 
 ### 🧑‍💻 About Me
@@ -22,6 +22,7 @@ I'm a passionate Full Stack Developer with over 10 years of experience building 
 
 **Frontend & Mobile**
 - React Native (Expo & CLI)
+- Angular/Ionic 
 - Flutter (Dart)
 - Vue.js (Vue 2/3), Tailwind CSS, Vite
 
