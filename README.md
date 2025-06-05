@@ -4,7 +4,7 @@
   🚀 Full Stack Developer | PHP (Laravel & Symfony) | Web (React, Vue, Next, Angular/Ionic) & Mobile App (React Native & Flutter)  
 </p>
 
-### 🧑‍💻 About Me
+### 🧑‍💻 About Mes
 
 I'm a passionate Full Stack Developer with over 10 years of experience building scalable web and mobile applications. I specialize in:
 
